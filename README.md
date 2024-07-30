@@ -2,9 +2,9 @@
 
 ## Description
 
-SnowEx is a program designed to relate in situ snow measurements to satellite so that we can assess snow physical properties and variability over a larger spatial and temporal resolution. As of current, we are pretty limited in what we can quantify using optical and radar satellite imagery. Mainly, we are able to just see if snow is present given the different reflectance and pixel brightness. The long term goal with using microstructure (MicroCT) is to **XYZ**. We are still quite far away from this goal, however ongoing measurements and data collection in the Western US are exceptionally useful to reaching this goal.
+SnowEx is a program designed to relate in-situ snow measurements to satellite so that we can assess snow physical properties and variability over a larger spatial and temporal resolution. As of current, we are pretty limited in what we can quantify using optical and radar satellite imagery. Mainly, we are able to just see if snow is present (given the different reflectance and pixel brightness), but not properties within the snowpack. And given how variable snow is in the Western US, this necessitates the usage of snow assessment over the season and over a longer temporal record. The long-term objective with using snow microstructure (Micro-CT), and the primary objective of the 2020 SnowEx campaign, is 1) to test and validate snow water equivalant (SWE) retrieval from active and passive microwave sensors, and 2) to quantify variability within pixels of thermal infrared signatures to assess the value of kilometer-scale satellite infrared observations for snow energy balance modeling.
 
-This module is designed to provide participants with resources and practice using the NSIDC data respository, along with data comparisons and analysis for 3-5 sites in Grand Mesa, CO in 2020. These sites have overlapping microstructure, snow-pit, snow penetrometer (SMP), laser, and SWESARR brightness temperature, which make it an ideal first step to advancements in the SnowEx program.
+This module is designed to provide participants with resources using the NSIDC data respository, along with data comparisons and analysis for 3-5 sites in Grand Mesa, CO in during the 2020 SNowEx campaign. These sites have overlapping microstructure, snow-pit, snow penetrometer (SMP), laser, and SWESARR brightness temperature, which make it an ideal first step to advancements in the SnowEx program.
 
 ## Description of Data 
 ######  *(mainly pulled from NSIDC overviews)*
@@ -28,25 +28,25 @@ This data set contains airborne microwave brightness temperature observations fr
 
 ## Tasks
 
-#### 1. Using Matlab,
+#### 1. Using Matlab, call in data parameters (...)
 
-#### 2. 
+#### 2. Do *XYZ*
 
-#### 3. 
+#### 3. Do *XYZ*
 
-#### 4. 
+#### 4. Do *XYZ*
 
-#### 5. 
+#### 5. Do *XYZ*
 
-#### 6. 
+#### 6. Do *XYZ*
 
-#### 7. 
+#### 7. Do *XYZ*
 
-#### 8. 
+#### 8. Do *XYZ*
 
-#### 9. 
+#### 9. Do *XYZ*
 
-#### 10. 
+#### 10. Do *XYZ*
 
 
 ## Resources
