@@ -49,9 +49,16 @@ This data set contains airborne microwave brightness temperature observations fr
 #### 10. Do *XYZ*
 
 
-## Resources
+## Resources for Data Download
+#### Numerical Data
+[NSIDC Main Data Page](https://nsidc.org/data/snowex/data)
+- [Snow Microstructure Data](https://nsidc.org/data/snex20_gm_ctsm/versions/1)
+- [Snow-Pit Data](https://nsidc.org/data/snex20_gm_sp/versions/1)
+- [Snow Penetrometer (SMP) Data](https://nsidc.org/data/snex20_smp/versions/1)
+- [Laser Data](https://nsidc.org/data/snex20_ssa/versions/1)
 
-- [NSIDC main data page](https://nsidc.org/data/snowex/data), and in this module we will be using [snow microstructure](https://nsidc.org/data/snex20_gm_ctsm/versions/1) data, [snow-pit](https://nsidc.org/data/snex20_gm_sp/versions/1) data, [snow penetrometer (SMP)](https://nsidc.org/data/snex20_smp/versions/1) data, [laser](https://nsidc.org/data/snex20_ssa/versions/1) data, and [SWESARR brightness temperature](https://nsidc.org/data/data-access-tool/SNEX20_SWESARR_TB/versions/1).
+#### Microwave Radar
+- [SWESARR Brightness Temperature](https://nsidc.org/data/data-access-tool/SNEX20_SWESARR_TB/versions/1).
 
 ## Using Matlab Functions
 
