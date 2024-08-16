@@ -1,4 +1,4 @@
-# SnowEx: Microstucture from Radar module.
+# Microsnow from Radar module.
 
 ## Description
 
